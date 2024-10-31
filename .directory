@@ -2,6 +2,6 @@
 Icon=folder-adwaita-pictures
 
 [Dolphin]
-Timestamp=2024,6,1,16,31,10.396
+Timestamp=2024,10,10,2,5,39.164
 Version=4
-VisibleRoles=Details_text,Details_size,Details_modificationtime,Details_path,CustomizedDetails
+VisibleRoles=CustomizedDetails,Details_text,Details_size,Details_modificationtime
